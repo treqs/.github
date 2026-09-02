@@ -27,5 +27,5 @@ team needs for important compute jobs. Nothing runs until someone — or a polic
 
 | | |
 | --- | --- |
-| [**roar**](https://github.com/treqs/roar) | Run Observation & Artifact Registration. Prefix any command with `roar run` and it records what was read, what was written, the commit, and the environment — no pipeline to declare and no code to change. |
-| [**treqs-cli**](https://github.com/treqs/treqs-cli) | Drive TReqs from a terminal: create and review training requests, configure compute targets, queue runs, and follow their logs. `--json` on any command makes it scriptable — and agent-friendly. |
+| [**roar**](https://github.com/treqs/roar) | Use roar to record what was read, what was written, the commit, and the environment. |
+| [**treqs-cli**](https://github.com/treqs/treqs-cli) | Drive TReqs from a terminal and with the agent-friendly CLI. |
