@@ -17,11 +17,11 @@ No code changes. No loggers. No frameworks. Maximal visibility.
 
 ### [GLaaS](https://glaas.ai) — *The registry of **roar** activity.*
 A content-addressable registry of every artifact and job. Resolve any
-artifact's hash back to the code, data, and environment that made it.
+artifact's hash back to the code, data, and environment that made it. [-> GLaaS Docs <-](https://glaas.ai/docs)
 
 ### [TReqs](https://treqs.ai) — *Approve before compute.*
 Training requests as pull requests. As much or as little peer review as your
-team needs for important compute jobs. Nothing runs until someone — or a policy — says go.
+team needs for important compute jobs. Nothing runs until someone — or a policy — says go. [-> TReqs Docs <-](https://app.treqs.ai/docs)
 
 ## TReqs Tools
 
